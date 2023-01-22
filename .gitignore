@@ -8,3 +8,6 @@ _pycache_
 .DS_store
 .pyc
 .coverage
+*/__pycache__/
+__pycache__
+/__pycache__/
